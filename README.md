@@ -23,11 +23,11 @@ User has knowledge and experience managing Red Hat OpenShift cluster
 
 # Step 1: Download files from the GitHub repo using the following command.
 
-        git clone https://github.com/kapilrajyaguru/Data-Virtualization.git
+        git clone https://github.com/kapilrajyaguru/Waston-ML-n-Studio-Installation.git
 
   After downloading files, switch to the Watson-Knowledge-Catalog-Installation directory.
         
-        cd Data-Virtualization/
+        cd Waston-ML-n-Studio-Installation/
 
 # Step 2 - Create the Watson Machine Learning operator subscription.
   
